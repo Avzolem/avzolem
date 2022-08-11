@@ -25,7 +25,7 @@
 
 *<b>👇 Working on...</b>*
 
-<a href="comimake.vercel.app">
+<a href="https://comimake.vercel.app">
 <img align="left" alt="Comimake" width="150px" height="150px" src="https://res.cloudinary.com/comi-make/image/upload/v1657365533/logos/Comimake_dkjhgi.png" />
 </a>
 

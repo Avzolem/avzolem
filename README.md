@@ -12,16 +12,13 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me 🌮</h1>
 
-<img align="left" alt="GIF-1" width="350px" height="350px" src="https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif" />
+<img align="left" alt="GIF-1" width="350px" height="350px" src="https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47sgdpikqng8skvlbxg2zy5jooo1l0kcprs02f9ekj&rid=giphy.gif&ct=g" />
 
 ## I'm A Engineer, Developer, Gamer and a Learner!!!
 - 🌌 - I’m currently working on ... avsolem.com
 - 📖 - I’m currently learning ... NextJS & React 
 - 🚀 - I’m looking to collaborate on ... Indie Frontend Projects
 - 📫 - How to reach me: andresaguilar.exe@gmail.com or @avsolem all my social networks
-
-## Listen With Me On Spotify 🎧
-[![Spotify](https://novatorem-weld-ten.vercel.app/api/spotify)](https://open.spotify.com/user/12136629381)
 
 *<b>👇 Working on...</b>*
 

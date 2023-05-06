@@ -12,7 +12,6 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me 🌮</h1>
 
-<img align="left" alt="GIF-1" width="350px" height="350px" src="https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47sgdpikqng8skvlbxg2zy5jooo1l0kcprs02f9ekj&rid=giphy.gif&ct=g" />
 
 ## I'm A Engineer, Developer, Gamer and a Learner!!!
 - 🌌 - I’m currently working on ... avsolem.com

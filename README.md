@@ -13,7 +13,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me 🌮</h1>
 
 
-## I'm A Engineer, Developer, Gamer and a Learner!!!
+## I'm A Engineer, Developer, Gamer and Cowboy!!!
 - 🌌 - I’m currently working on ... avsolem.com
 - 📖 - I’m currently coding on ... NextJS & React 
 - 🚀 - I’m looking to collaborate on ... Web3 Projects

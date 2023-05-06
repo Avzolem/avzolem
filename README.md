@@ -15,9 +15,9 @@
 
 ## I'm A Engineer, Developer, Gamer and a Learner!!!
 - 🌌 - I’m currently working on ... avsolem.com
-- 📖 - I’m currently learning ... NextJS & React 
-- 🚀 - I’m looking to collaborate on ... Indie Frontend Projects
-- 📫 - How to reach me: andresaguilar.exe@gmail.com or @avsolem all my social networks
+- 📖 - I’m currently coding on ... NextJS & React 
+- 🚀 - I’m looking to collaborate on ... Web3 Projects
+- 📫 - How to reach me: andresaguilar.exe@gmail.com or @avsolem in all my social networks
 
 *<b>👇 Working on...</b>*
 

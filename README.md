@@ -24,6 +24,9 @@
 <a href="https://comimake.vercel.app">
 <img align="left" alt="Comimake" width="150px" height="150px" src="https://res.cloudinary.com/comi-make/image/upload/v1657365533/logos/Comimake_dkjhgi.png" />
 </a>
-<a href="https://comimake.vercel.app">
-<img align="left" alt="Comimake" width="150px" height="150px" src="https://res.cloudinary.com/dyalnhdcl/image/upload/v1753759932/Captura_de_pantalla_2025-07-28_213231_rrwrsf.png" />
+<a href="https://cal-pic.vercel.app">
+<img align="left" alt="Calpic."  height="150px" src="https://res.cloudinary.com/dyalnhdcl/image/upload/v1753759932/Captura_de_pantalla_2025-07-28_213231_rrwrsf.png" />
+</a>
+<a href="https://softer.vercel.app">
+<img align="left" alt="Softer" width="150px" height="150px" src="https://res.cloudinary.com/dyalnhdcl/image/upload/v1753760125/Captura_de_pantalla_2025-07-28_213556_fqhwrn.png" />
 </a>

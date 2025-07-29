@@ -28,5 +28,5 @@
 <img align="left" alt="Calpic."  height="150px" src="https://res.cloudinary.com/dyalnhdcl/image/upload/v1753759932/Captura_de_pantalla_2025-07-28_213231_rrwrsf.png" />
 </a>
 <a href="https://softer.vercel.app">
-<img align="left" alt="Softer" width="150px" height="150px" src="https://res.cloudinary.com/dyalnhdcl/image/upload/v1753760125/Captura_de_pantalla_2025-07-28_213556_fqhwrn.png" />
+<img align="left" alt="Softer" height="150px" src="https://res.cloudinary.com/dyalnhdcl/image/upload/v1753760125/Captura_de_pantalla_2025-07-28_213556_fqhwrn.png" />
 </a>
